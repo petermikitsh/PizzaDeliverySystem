@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_26" class="java.beans.XMLDecoder"> 
+ <int>0</int> 
+ <object class="java.util.HashMap"> 
+  <void method="put"> 
+   <int>1298045398</int> 
+   <object class="model.Customer"> 
+    <void property="customerId"> 
+     <int>1298045398</int> 
+    </void> 
+    <void property="name"> 
+     <string>Raphael</string> 
+    </void> 
+    <void property="phoneNumber"> 
+     <string>0987654321</string> 
+    </void> 
+    <void property="streetAddress"> 
+     <void property="location"> 
+      <string>St. John Fisher College</string> 
+     </void> 
+     <void property="timeToLocation"> 
+      <int>21</int> 
+     </void> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="put"> 
+   <int>1298020830</int> 
+   <object class="model.Customer"> 
+    <void property="customerId"> 
+     <int>1298020830</int> 
+    </void> 
+    <void property="name"> 
+     <string>Donatello</string> 
+    </void> 
+    <void property="phoneNumber"> 
+     <string>1234567890</string> 
+    </void> 
+    <void property="streetAddress"> 
+     <void property="location"> 
+      <string>Rochester Institute of Technology</string> 
+     </void> 
+     <void property="timeToLocation"> 
+      <int>18</int> 
+     </void> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="put"> 
+   <int>1298113613</int> 
+   <object class="model.Customer"> 
+    <void property="customerId"> 
+     <int>1298113613</int> 
+    </void> 
+    <void property="name"> 
+     <string>Leonardo</string> 
+    </void> 
+    <void property="phoneNumber"> 
+     <string>5850987654</string> 
+    </void> 
+    <void property="streetAddress"> 
+     <void property="location"> 
+      <string>University of Rochester</string> 
+     </void> 
+     <void property="timeToLocation"> 
+      <int>12</int> 
+     </void> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="put"> 
+   <int>1298028604</int> 
+   <object class="model.Customer"> 
+    <void property="customerId"> 
+     <int>1298028604</int> 
+    </void> 
+    <void property="name"> 
+     <string>Michelangelo</string> 
+    </void> 
+    <void property="phoneNumber"> 
+     <string>5851234567</string> 
+    </void> 
+    <void property="streetAddress"> 
+     <void property="location"> 
+      <string>Monroe Community College</string> 
+     </void> 
+     <void property="timeToLocation"> 
+      <int>18</int> 
+     </void> 
+    </void> 
+   </object> 
+  </void> 
+ </object> 
+</java> 

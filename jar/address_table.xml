@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_26" class="java.beans.XMLDecoder"> 
+ <int>0</int> 
+ <object class="java.util.HashMap"> 
+  <void method="put"> 
+   <int>-1912529746</int> 
+   <object class="model.Address"> 
+    <void property="location"> 
+     <string>Roberts Wesleyan College</string> 
+    </void> 
+    <void property="timeToLocation"> 
+     <int>25</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="put"> 
+   <int>2051834744</int> 
+   <object class="model.Address"> 
+    <void property="location"> 
+     <string>Nazareth College</string> 
+    </void> 
+    <void property="timeToLocation"> 
+     <int>25</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="put"> 
+   <int>1568906814</int> 
+   <object class="model.Address"> 
+    <void property="location"> 
+     <string>St. John Fisher College</string> 
+    </void> 
+    <void property="timeToLocation"> 
+     <int>21</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="put"> 
+   <int>-1621703588</int> 
+   <object class="model.Address"> 
+    <void property="location"> 
+     <string>Monroe Community College</string> 
+    </void> 
+    <void property="timeToLocation"> 
+     <int>18</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="put"> 
+   <int>81149</int> 
+   <object class="model.Address"> 
+    <void property="location"> 
+     <string>RIT</string> 
+    </void> 
+    <void property="timeToLocation"> 
+     <int>18</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="put"> 
+   <int>-27320422</int> 
+   <object class="model.Address"> 
+    <void property="location"> 
+     <string>University of Rochester</string> 
+    </void> 
+    <void property="timeToLocation"> 
+     <int>12</int> 
+    </void> 
+   </object> 
+  </void> 
+ </object> 
+</java> 

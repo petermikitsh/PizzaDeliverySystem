@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_26" class="java.beans.XMLDecoder"> 
+ <int>0</int> 
+ <object class="java.util.HashMap"> 
+  <void method="put"> 
+   <int>-758003725</int> 
+   <object class="model.Topping"> 
+    <void property="name"> 
+     <string>Sausage</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="put"> 
+   <int>-1928438806</int> 
+   <object class="model.Topping"> 
+    <void property="name"> 
+     <string>Onions</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="put"> 
+   <int>984266353</int> 
+   <object class="model.Topping"> 
+    <void property="name"> 
+     <string>Peppers</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="put"> 
+   <int>-1914822917</int> 
+   <object class="model.Topping"> 
+    <void property="name"> 
+     <string>Mushrooms</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="put"> 
+   <int>987159784</int> 
+   <object class="model.Topping"> 
+    <void property="name"> 
+     <string>Pepperoni</string> 
+    </void> 
+   </object> 
+  </void> 
+ </object> 
+</java> 
