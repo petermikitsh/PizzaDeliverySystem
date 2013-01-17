@@ -1,8 +1,5 @@
 SE361 Pizza Delivery System Project
 
-To run, download the /bin directory and execute pds.jar.
+To run, download the /jar directory and execute pds.jar.
 
-To login, use the following credentials:
-
-Username: username
-Password: password
+To login, use the following credentials: username / password
